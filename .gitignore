@@ -1,0 +1,9 @@
+entregas/
+notas.ods
+Tarea_1.zip
+bash.sh
+*.aux
+*.log
+*.out
+*.gz
+.ipynb_checkpoints
